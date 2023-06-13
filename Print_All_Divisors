@@ -1,0 +1,11 @@
+we have to print all possible divisors dor that formula is sum+=(i*(i/N))
+
+
+pseudo code : 
+
+n = 4;
+sum=0;
+
+for(i=1;i<=n;i++){
+    sum+=(i*(i/n));
+}
